@@ -5,3 +5,5 @@ numero = 111
 print(numero)
 print(numero2)
 print(numero, numero2)
+
+#Comentario en Python, esta parte solo es para las personas.
